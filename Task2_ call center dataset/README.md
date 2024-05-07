@@ -37,10 +37,3 @@ Contributions to this dashboard are welcome. Please fork the repository and subm
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
-
-## Contact
-For any queries or further assistance, please contact Claire, the Call Centre Manager, at claire@phonenow.com.
-
-## Acknowledgments
-- Thanks to the PhoneNow management team for their support and data provision.
-- Special thanks to the Digital Accelerator team for their guidance on data visualization best practices.
